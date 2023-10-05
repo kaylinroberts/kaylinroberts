@@ -1,10 +1,19 @@
-[![MasterHead](https://www.coventry.ac.uk/contentassets/e3c3bced8b1148a3880d871ac98a7d51/kojo-webinar-banner-2.jpg)]
+![MasterHead](https://i0.wp.com/larrylisky.com/wp-content/uploads/2018/05/2016tkp_neuralnetwork_banner.jpg?fit=2300%2C500&ssl=1)
 <h1 align="center">Hi 👋, I'm Kaylin</h1>
 <h3 align="center">A recent UC Santa Barbara graduate with a passion in computer science and data science</h3>
 
 <img align="right" alt = "Coding" width = "200" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif">
 
 - 📫 How to reach me **kaylinrobertss@gmail.com**
+
+<h3 align="left">My Projects:</h3>
+
+  - Independent Research, CCBER Lab: [Classifying Bee Wings](https://github.com/kaylinroberts/Classifying-Bee-Wings/blob/main/Final_Report_and_Code_Bee_Classifier.ipynb) 
+  - Research, Caves Lab: [Measuring Visual Acuity of Bees](https://github.com/xwang38438/bee_oda_caves)
+  - [CNN for Facial Recognition](https://github.com/kaylinroberts/vignette-cnn-facial-recognition)
+  - [Fraud Detection](https://github.com/pstat197/claims-group_15)
+  - [Early Detection Biomarkers of ASD](https://github.com/pstat197/biomarkers-group11)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
