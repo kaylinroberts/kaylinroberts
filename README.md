@@ -1,4 +1,4 @@
-[[MasterHead](https://www.coventry.ac.uk/contentassets/e3c3bced8b1148a3880d871ac98a7d51/kojo-webinar-banner-2.jpg)]
+[![MasterHead](https://www.coventry.ac.uk/contentassets/e3c3bced8b1148a3880d871ac98a7d51/kojo-webinar-banner-2.jpg)]
 <h1 align="center">Hi 👋, I'm Kaylin</h1>
 <h3 align="center">A recent UC Santa Barbara graduate with a passion in computer science and data science</h3>
 
