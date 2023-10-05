@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaylin</h1>
 <h3 align="center">A recent UC Santa Barbara graduate with a passion in computer science and data science</h3>
 
+<img align="left" alt = "Coding" width = "200" src "https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif">
+
 - 📫 How to reach me **kaylinrobertss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
