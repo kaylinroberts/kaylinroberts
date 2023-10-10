@@ -1,6 +1,6 @@
 ![MasterHead](https://i0.wp.com/larrylisky.com/wp-content/uploads/2018/05/2016tkp_neuralnetwork_banner.jpg?fit=2300%2C500&ssl=1)
 <h1 align="center">Hi 👋, I'm Kaylin</h1>
-<h3 align="center">A recent UC Santa Barbara graduate with a passion in computer science and data science</h3>
+<h3 align="center">A recent UC Santa Barbara graduate with a passion for problem solving using data</h3>
 
 <img align="right" alt = "Coding" width = "200" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif">
 
